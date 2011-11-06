@@ -7,12 +7,13 @@
     "main"         : "./lib/circus.js",
     "directories"  : { "lib" : "./lib" },
     "dependencies" : {
-        "promised-io" : ">=0.2.3"
+        "promised-io" : ">=0.2.5",
+        "on"          : ">=0.1.0"
     },
     "repository" : {
         "type" : "git",
-        "url"  : "http://github.com/usenode/circus.js.git"
+        "url"  : "http://github.com/tomyan/circus.js.git"
     },
-    "homepage" : "http://github.com/usenode/circus.js"
+    "homepage" : "http://github.com/tomyan/circus.js"
 }
 
